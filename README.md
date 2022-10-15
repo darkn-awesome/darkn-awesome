@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![@viganharta's holopin board](https://holopin.io/viganharta)](https://holopin.io/@viganharta)
+[![@viganharta's holopin board](https://holopin.me/viganharta)](https://holopin.io/@viganharta)
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
