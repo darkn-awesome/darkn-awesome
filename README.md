@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **DS, C(Language), Python**
 
-- 📫 How to reach me **dark42121@gmail.com .**
+- 📫 How to reach me **<a href="dark42121@gmail.com">here</a> .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
