@@ -28,3 +28,4 @@
 
 [![@viganharta's holopin board](https://holopin.io/api/user/board?user=viganharta)](https://holopin.io/@viganharta)
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
